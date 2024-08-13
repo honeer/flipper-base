@@ -1,5 +1,5 @@
 
-![Logo](https://honeer.se/images/logo.png)
+![Logo](https://honeer.se/images/logo.ng)
 
 
 # Flipper Base

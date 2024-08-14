@@ -34,10 +34,8 @@ RogueMaster Flipper Zero Firmware - [RogueMaster](https://github.com/RogueMaster
 
 
 ## Documentation
-Flipper Zero Official
 - [Flipper Docs](https://docs.flipper.net/)
 - [Flipper Firmware Docs](https://developer.flipper.net/flipperzero/doxygen/index.html)
-Momentum
 - [Momentum Docs](https://github.com/Next-Flip/Momentum-Firmware/tree/dev/documentation)
 
 
